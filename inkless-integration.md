@@ -1,7 +1,5 @@
-
 Inkless integration
 ===================
-
 ------------
 Introduction
 ------------
